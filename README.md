@@ -1,6 +1,6 @@
 # Gestione Macchinari Estetici – Progetto di Basi di Dati
 
-Progetto del corso di **Basi di Dati (A.A. 2021/22)**: progettazione completa di una base di dati per un'azienda che **progetta, produce, vende e ripara macchinari industriali per il settore estetico**, con un'applicazione Java (JDBC) da riga di comando che esegue le operazioni richieste sul database.
+Progetto del corso di Basi di Dati : progettazione completa di una base di dati per un'azienda che **progetta, produce, vende e ripara macchinari industriali per il settore estetico**, con un'applicazione Java (JDBC) da riga di comando che esegue le operazioni richieste sul database.
 
 Il lavoro copre tutte le fasi della progettazione:
 
